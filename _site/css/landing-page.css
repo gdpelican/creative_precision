@@ -177,3 +177,31 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.hero-icon-list {
+  padding: 20px 0;
+}
+
+.hero-icon i {
+  display: block;
+  padding-bottom: 10px;
+  font-size: 5em;
+}
+
+.header-image {
+  padding: 5px;
+}
+
+.header-image img {
+  height: 40px;
+}
+
+.footer-image {
+  margin-top: -25px;
+  text-align: right;
+}
+
+.footer-image img {
+  max-width: 100%;
+  max-height: 90px;
+}
